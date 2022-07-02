@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goodlifebrothers
 - 👀 I’m interested in ...web3
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...systems analyst and python
+- 💞️ I’m looking to collaborate on ... ethereum and polkadot 
 - 📫 How to reach me ...
 
 <!---
